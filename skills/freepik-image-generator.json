@@ -1,0 +1,7 @@
+{
+  "name": "freepik-image-generator",
+  "description": "Generate images using the Freepik API's Flux Pro v1.1 model",
+  "version": "1.0.0",
+  "author": "AI Agent",
+  "entrypoint": "generate_image.sh"
+}
