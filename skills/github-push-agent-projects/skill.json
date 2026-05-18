@@ -1,0 +1,7 @@
+{
+  "name": "github-push-agent-projects",
+  "description": "Push AI Agents projects to GitHub repository",
+  "version": "1.0.0",
+  "author": "AI Agent Developer",
+  "entrypoint": "push.sh"
+}
